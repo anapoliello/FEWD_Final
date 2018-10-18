@@ -1,0 +1,78 @@
+/* 	color pallet
+bold: #A44C21
+compliment: #9CC7C0
+accent: #1F554D
+background: #EFEEE3
+
+	font library
+title (decorative): 'Barrio', cursive;
+subtitles (serif): 	'Volkhov', serif;	
+
+*/
+
+main {
+	background-color: #EFEEE3;
+}
+
+.bg-dark_new {
+	color: #;
+	background-color: #1F554D;
+}
+
+.jumbo_color {
+	background-color: #EFEEE3 ;
+}
+
+.header_font{
+	font-family: 'Volkhov', serif;
+	color: #A44C21;
+}
+
+
+.subheader_font{
+	font-family: 'Volkhov', serif;
+	color: #1F554D;
+}
+
+ul {
+	list-style: none;
+}
+
+.title_font {
+	font-family: 'Barrio', cursive;
+	color: #A44C21;
+}
+
+footer {
+	font-size: 12px;
+	color: #A44C21;
+	margin: 20px;
+	padding-bottom: 10px;
+}
+
+/* css use in js */
+.followup_questions {
+	
+}
+
+.followup_questions ol {
+	display: none;
+}
+
+.followup_questions ol.active {
+	display: block;
+}
+
+
+#submitted p,
+#submitted {
+	display: none;
+}
+
+#submitted p.active,
+#submitted.active {
+	display: block;
+}
+
+
+
